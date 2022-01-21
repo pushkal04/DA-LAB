@@ -1,0 +1,5 @@
+v <- c(1, 2, 3, 4, 5)
+print(any(is.na(v)))
+print(any(is.nan(v)))
+print(any(v == Inf))
+print(any(v == -Inf))

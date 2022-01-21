@@ -1,0 +1,8 @@
+seq_625 <- c(20 : 50)
+print(seq_625)
+x_625 <- c(20 : 60)
+result.mean <- mean(x_625)
+print(result.mean)
+n_625 <- c(51 : 91)
+result.sum <- sum(n_625)
+print(result.sum)

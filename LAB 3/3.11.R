@@ -1,0 +1,6 @@
+nterms = as.integer(readline(prompt="Enter number of terms "))
+x = c(10, 20, 30, 20, 20, 25, 9, 26)
+print("Original Vectors:")
+print(x)
+print("Count specific value(20) in above vector:")
+print(sum(x==20))
